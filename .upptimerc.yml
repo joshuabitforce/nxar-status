@@ -1,6 +1,6 @@
 # Informaci?n de la organizaci?n
 owner: joshuabitforce
-repo: nxar-status    # o el nombre que hayas usado
+repo: nxar-status
 
 # Sites a monitorear
 sites:
@@ -22,7 +22,7 @@ sites:
 # Status page
 status-website:
   cname: status.nx-ar.com
-  logoUrl: https://nx-ar.com/logo.svg   # opcional, si tenés
+  logoUrl: /nxar-logo.svg   # opcional, si tenés
   name: Nxar Status
   introTitle: '**Status de Nxar**'
   introMessage: 'Estado de disponibilidad en tiempo real.'
