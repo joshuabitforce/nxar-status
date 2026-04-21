@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Admin App",
+    "url": "https://admin.nx-ar.com/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/admin.nx-ar.com.ico",
+    "slug": "admin-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 478,
+    "timeDay": 478,
+    "timeWeek": 478,
+    "timeMonth": 478,
+    "timeYear": 478,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Master Database",
+    "url": "https://admin.nx-ar.com/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/admin.nx-ar.com.ico",
+    "slug": "master-database",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
+    "dailyMinutesDown": {}
+  }
+]
