@@ -47,3 +47,5 @@ workflowSchedule:
   updateTemplate: '0 3 * * 0'  # semanal
   updates: '0 3 * * *'   # diario
   uptime: '*/5 * * * *'  # cada 5 min (esto controla la frecuencia de los checks)
+
+# Update config
