@@ -1,7 +1,7 @@
 url: https://admin.nx-ar.com/api/health
-status: down
-code: 502
-responseTime: 145
-lastUpdated: 2026-05-20T19:40:57.518Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2026-05-20T21:23:59.905Z
 startTime: 2026-04-21T19:43:10.113Z
 generator: Upptime <https://github.com/upptime/upptime>
