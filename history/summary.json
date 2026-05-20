@@ -4,19 +4,19 @@
     "url": "https://admin.nx-ar.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/admin.nx-ar.com.ico",
     "slug": "admin-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 588,
-    "timeDay": 576,
-    "timeWeek": 702,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 592,
+    "timeDay": 615,
+    "timeWeek": 701,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-05-20": 0
+      "2026-05-20": 103
     }
   },
   {
@@ -24,17 +24,19 @@
     "url": "https://admin.nx-ar.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/admin.nx-ar.com.ico",
     "slug": "master-database",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 161,
-    "timeWeek": 325,
-    "timeMonth": 308,
-    "timeYear": 308,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 304,
+    "timeDay": 166,
+    "timeWeek": 308,
+    "timeMonth": 304,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2026-05-20": 103
+    }
   }
 ]
